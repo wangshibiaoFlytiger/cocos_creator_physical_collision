@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "physical_collision",
+  "id": "f0ebe850-30ba-4bf4-b42b-6bf188d51a71",
+  "version": "2.4.2",
+  "isNew": false
+}
